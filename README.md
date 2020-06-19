@@ -1,4 +1,7 @@
-# PE_reader
- A small tool which helps me in analysis the PE File,NTFS
+# 一个用于读取PE文件格式的小程序
 
-#### Just put this tool with the PE File which is to be analyzed in the sane location,than,open it,it's very easy to use!
+现阶段直接下载PEreader.exe就行了，运行方式里头有提示
+
+可以解析PE文件的头部格式，也仅此而已。
+
+代码很糟糕，大型屎山。未来，如果我良心发现了，也许会回来重构。
